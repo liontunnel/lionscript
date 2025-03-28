@@ -82,7 +82,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/liontunnel/lionscript/main/"
+    REPO="https://raw.githubusercontent.com/liontunnel/lionscript/GM/"
 
 ####
 start=$(date +%s)
